@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\VisualStudioProjeleri\\AkademiqNetRapidApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52B67AE1-0AEA-49F1-B27D-D47C8F0709FB}|AkademiqNetRapidApi\\AkademiqNetRapidApi.csproj|c:\\visualstudioprojeleri\\akademiqnetrapidapi\\akademiqnetrapidapi\\views\\tasty\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52B67AE1-0AEA-49F1-B27D-D47C8F0709FB}|AkademiqNetRapidApi\\AkademiqNetRapidApi.csproj|solutionrelative:akademiqnetrapidapi\\views\\tasty\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52B67AE1-0AEA-49F1-B27D-D47C8F0709FB}|AkademiqNetRapidApi\\AkademiqNetRapidApi.csproj|c:\\visualstudioprojeleri\\akademiqnetrapidapi\\akademiqnetrapidapi\\controllers\\tastycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52B67AE1-0AEA-49F1-B27D-D47C8F0709FB}|AkademiqNetRapidApi\\AkademiqNetRapidApi.csproj|solutionrelative:akademiqnetrapidapi\\controllers\\tastycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52B67AE1-0AEA-49F1-B27D-D47C8F0709FB}|AkademiqNetRapidApi\\AkademiqNetRapidApi.csproj|c:\\visualstudioprojeleri\\akademiqnetrapidapi\\akademiqnetrapidapi\\models\\tastyviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52B67AE1-0AEA-49F1-B27D-D47C8F0709FB}|AkademiqNetRapidApi\\AkademiqNetRapidApi.csproj|solutionrelative:akademiqnetrapidapi\\models\\tastyviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52B67AE1-0AEA-49F1-B27D-D47C8F0709FB}|AkademiqNetRapidApi\\AkademiqNetRapidApi.csproj|c:\\visualstudioprojeleri\\akademiqnetrapidapi\\akademiqnetrapidapi\\views\\movie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52B67AE1-0AEA-49F1-B27D-D47C8F0709FB}|AkademiqNetRapidApi\\AkademiqNetRapidApi.csproj|solutionrelative:akademiqnetrapidapi\\views\\movie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52B67AE1-0AEA-49F1-B27D-D47C8F0709FB}|AkademiqNetRapidApi\\AkademiqNetRapidApi.csproj|c:\\visualstudioprojeleri\\akademiqnetrapidapi\\akademiqnetrapidapi\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52B67AE1-0AEA-49F1-B27D-D47C8F0709FB}|AkademiqNetRapidApi\\AkademiqNetRapidApi.csproj|solutionrelative:akademiqnetrapidapi\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\VisualStudioProjeleri\\AkademiqNetRapidApi\\AkademiqNetRapidApi\\Views\\Tasty\\Index.cshtml",
+              "RelativeDocumentMoniker": "AkademiqNetRapidApi\\Views\\Tasty\\Index.cshtml",
+              "ToolTip": "C:\\VisualStudioProjeleri\\AkademiqNetRapidApi\\AkademiqNetRapidApi\\Views\\Tasty\\Index.cshtml",
+              "RelativeToolTip": "AkademiqNetRapidApi\\Views\\Tasty\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T12:24:34.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TastyViewModel.cs",
+              "DocumentMoniker": "C:\\VisualStudioProjeleri\\AkademiqNetRapidApi\\AkademiqNetRapidApi\\Models\\TastyViewModel.cs",
+              "RelativeDocumentMoniker": "AkademiqNetRapidApi\\Models\\TastyViewModel.cs",
+              "ToolTip": "C:\\VisualStudioProjeleri\\AkademiqNetRapidApi\\AkademiqNetRapidApi\\Models\\TastyViewModel.cs",
+              "RelativeToolTip": "AkademiqNetRapidApi\\Models\\TastyViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T12:10:22.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TastyController.cs",
+              "DocumentMoniker": "C:\\VisualStudioProjeleri\\AkademiqNetRapidApi\\AkademiqNetRapidApi\\Controllers\\TastyController.cs",
+              "RelativeDocumentMoniker": "AkademiqNetRapidApi\\Controllers\\TastyController.cs",
+              "ToolTip": "C:\\VisualStudioProjeleri\\AkademiqNetRapidApi\\AkademiqNetRapidApi\\Controllers\\TastyController.cs",
+              "RelativeToolTip": "AkademiqNetRapidApi\\Controllers\\TastyController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T12:07:53.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\VisualStudioProjeleri\\AkademiqNetRapidApi\\AkademiqNetRapidApi\\Views\\Movie\\Index.cshtml",
+              "RelativeDocumentMoniker": "AkademiqNetRapidApi\\Views\\Movie\\Index.cshtml",
+              "ToolTip": "C:\\VisualStudioProjeleri\\AkademiqNetRapidApi\\AkademiqNetRapidApi\\Views\\Movie\\Index.cshtml",
+              "RelativeToolTip": "AkademiqNetRapidApi\\Views\\Movie\\Index.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwBEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T11:41:33.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\VisualStudioProjeleri\\AkademiqNetRapidApi\\AkademiqNetRapidApi\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "AkademiqNetRapidApi\\Controllers\\MovieController.cs",
+              "ToolTip": "C:\\VisualStudioProjeleri\\AkademiqNetRapidApi\\AkademiqNetRapidApi\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "AkademiqNetRapidApi\\Controllers\\MovieController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T11:22:59.081Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
