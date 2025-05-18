@@ -283,3 +283,4 @@ C:\VisualStudioProjeleri\AkademiqNetRapidApi\AkademiqNetRapidApi\obj\Debug\net9.
 C:\VisualStudioProjeleri\AkademiqNetRapidApi\AkademiqNetRapidApi\obj\Debug\net9.0\AkademiqNetRapidApi.pdb
 C:\VisualStudioProjeleri\AkademiqNetRapidApi\AkademiqNetRapidApi\obj\Debug\net9.0\AkademiqNetRapidApi.genruntimeconfig.cache
 C:\VisualStudioProjeleri\AkademiqNetRapidApi\AkademiqNetRapidApi\obj\Debug\net9.0\ref\AkademiqNetRapidApi.dll
+C:\VisualStudioProjeleri\AkademiqNetRapidApi\AkademiqNetRapidApi\obj\Debug\net9.0\AkademiqNetRapidApi.sourcelink.json

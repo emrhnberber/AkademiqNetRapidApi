@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AkademiqNetRapidApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5084bf985dbcf70940027a62d0df27505c2c2312")]
 [assembly: System.Reflection.AssemblyProductAttribute("AkademiqNetRapidApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AkademiqNetRapidApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
